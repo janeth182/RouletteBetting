@@ -43,6 +43,6 @@ http://www.jvargas.somee.com/api/Roulette/CloseRoulette
 JSON modelo a enviar por metodo POST
 
 {
-  "IdRoulette" : 5,
+  "IdRoulette" : 5
 }
 
